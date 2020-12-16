@@ -1,0 +1,7 @@
+Data da consulta: 2020-12-15 20:52:15.288068 // Graus: -9.444444444444445º celcius
+Data da consulta: 2020-12-15 20:52:30.576136 // Graus: 129.2º farenheit
+Data da consulta: 2020-12-15 21:56:09.719621 // Graus: 7.222222222222222º celcius
+Data da consulta: 2020-12-15 22:12:17.679681 // Graus: -3.8888888888888893º celcius
+Data da consulta: 2020-12-15 22:28:05.676872 // Graus: -4.444444444444445º celcius
+Data da consulta: 2020-12-15 22:35:43.887993 // Graus: 77.0º farenheit
+Data da consulta: 2020-12-15 22:36:44.120412 // Graus: 62.77777777777778º celcius
